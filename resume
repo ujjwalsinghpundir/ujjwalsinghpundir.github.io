@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+
+<html>
+
+
+<head> 
+
+<title>RESUME</title>
+
+<meta charset="UTF-8">
+  <meta name="description" content="how to MAKE RESUME">
+  <meta name="keywords" content="HTML CODE FOR RESUME">
+  <meta name="author" content="ujjwal singh pundir">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+<div style="width:700px; height:1050px;border:1px solid black;margin:0px auto;"> 
+
+
+<div style="background-color:lightblue;padding:10px; width:40%;height:1050px;padding:0; float:left;">
+
+ <div style="height: 190px; width: 190px;margin:45px;border-radius:50%;"><img src="ujj.jpeg"width="200" height="200" alt="my photo"></div>
+
+<h1 style="margin-left:30px;color:bLACK";> <u>CONTACTS</u></H1>
+
+<ul style="list-style-type:square;">
+<p style="margin-top:10px;color:bLACK;"><a style="text-decoration:none;" href="https://github.com/ujjwalsinghpundir"><li>my github account</li></a></p>
+<p style="margin-top:10px;color:blACK;"><a style="text-decoration:none;"href="https://mail.google.com/ujjwalpundir2018@gmail.com"><li>My Gmail Account</li></a></p>
+<p style="margin-top:10px;color:black;"><li>8218187279</li></p>
+</ul>
+
+</div>
+
+<div style="height:800px; width:60%; float:right;">
+<h1 style="text-align:justify;margin-top:50px;margin-left:20px;">UJJWAL SINGH PUNDIR</H1>
+<hr style="padding:0px;margin:0px;">
+<hr style="padding:0px;margin:0px;">
+
+<div style="class:border;width:95%;padding:5px;margin-top:10px;background-color:lightblue;border:1px solid black;font-weight:bold;text-align:justify:">
+  CAREER OBJECTIVE :
+</div>
+
+<ul>
+<p><li>to work with org. that provides opportunities to learn and explore the skills,utilize my education and talents in the area of that interest me and benefits the organization </li></p>
+</ul>
+
+<div style="class:border;width:95%;padding:5px;margin-top:10px;background-color:lightblue;border:1px solid black;font-weight:bold;">
+  EDUCATIONAL QUALIFICATION :
+</div>
+
+<ul>
+<p><li>Currently pursueing M.C.A from Kiet Gp of institutions</li>
+   <li>B.Sc(Computer science)from subharti university,Dehradun</li>
+   <li>Intermediate from CBSE Board </li>
+   <li>High School from CBSE Board</li></p>
+</ul>
+
+<div style="class:border;width:95%;padding:5px;margin-top:10px;background-color:lightblue;border:1px solid black;font-weight:bold;">
+  PERSONAL STRENGTH :
+</div>
+
+<ul>
+<p><li>Adaptive to any environment</li>
+   <li>Punctuality & team work</li>
+   <li>Energetic and hardworking</li>
+   <li>Good Communication Skills</li>
+   <li>Optimistic and eager to learn new things</li></p>
+</ul>
+
+
+<div style="class:border;width:95%;padding:5px;margin-top:10px;background-color:lightblue;border:1px solid black;font-weight:bold;">
+  PERSONAL DETAILS:
+</div>
+
+<ul>
+<p><li>Father's Name:-Pramod kumar pundir </li>
+   <li>Date of birth:- 03 Aug 2000</li>
+   <li>Gender:-Male</li>
+   <li>Nationality:-Indian</li>
+   <li>Languages known:-Hindi,English</li>
+   <li>Martial status :-Unmarried</li></p>
+</ul>
+
+<div style="class:border;width:95%;padding:5px;margin-top:10px;background-color:lightblue;border:1px solid black;font-weight:bold;">
+  Working Experience:
+</div>
+<ul>
+<p><li>Fresher </li></p>
+</ul>
+
+
+<div style="class:border;width:95%;padding:5px;margin-top:10px;background-color:lightblue;border:1px solid black;font-weight:bold;">
+ Hobbies:
+</div>
+<ul>
+<p><li>Listening Music</li>
+   <li>Travelling</li>
+   <li>Playing cricket</li></p>
+</ul>
+
+
+<div style="class:border;width:95%;padding:5px;margin-top:10px;background-color:lightblue;border:1px solid black;font-weight:bold;">
+ Declaration:
+</div>
+<ul>
+<p><li>I hereby declare that all the above information is true to the best of my knowledge.</li></p>
+</ul>
+
+
+</div>
+</div>
+
+
+</body>
+
+
+</html>
